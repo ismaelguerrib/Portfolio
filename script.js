@@ -9,3 +9,16 @@ function changeNavClass() {
     navbar.classList.remove("sticky");
   }
 }
+
+// window.onclick = function() {toggleNav()};
+// var menu = document.getElementById("menu");
+
+// function toggleNav(){
+//   if (menu.classList.contains('active'))
+// };
+
+
+// document.getElementById('menu-btn').addEventListener('click', function(e) {
+//   e.preventDefault();
+//   toggleNav();
+// });
